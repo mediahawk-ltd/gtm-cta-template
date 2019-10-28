@@ -1,5 +1,7 @@
 homepage: "https://www.mediahawk.co.uk"
 documentation: "https://support.mediahawk.co.uk/support/solutions/folders/17000133157"
 versions:
+  - sha: 0d12410469b609e0789938f99a7430064704a61e
+    changeNotes: Updated wording.
   - sha: 42882f05dae98d07b622f023814eff33d7e4e15a
     changeNotes: Initial release.
